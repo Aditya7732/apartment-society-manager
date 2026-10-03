@@ -14,6 +14,23 @@
     <version>1.0.0</version>
     <name>Apartment Society Manager Backend</name>
     <description>Production-level Apartment Society Management System Backend</description>
+    <developers>
+        <developer>
+            <id>Aditya7732</id>
+            <name>Aditya Dhananjay Patil</name>
+            <email>patiladitya7733@gmail.com</email>
+            <url>https://github.com/Aditya7732</url>
+            <roles>
+                <role>Project Owner</role>
+                <role>Lead Developer</role>
+            </roles>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:git://github.com/Aditya7732/apartment-society-manager.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Aditya7732/apartment-society-manager.git</developerConnection>
+        <url>https://github.com/Aditya7732/apartment-society-manager</url>
+    </scm>
     <properties>
         <java.version>21</java.version>
         <lombok.version>1.18.38</lombok.version>

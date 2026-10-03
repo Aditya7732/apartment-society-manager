@@ -3,6 +3,15 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "Aditya Dhananjay Patil",
+    "email": "patiladitya7733@gmail.com",
+    "url": "https://github.com/Aditya7732"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aditya7732/apartment-society-manager.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

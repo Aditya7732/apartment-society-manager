@@ -19,9 +19,7 @@ We take the security of **Apartment Society Manager** seriously. If you discover
 
 To report a vulnerability:
 - Please open a **Private Vulnerability Advisory** through the repository's GitHub **Security** tab (`Security > Advisories > Report a vulnerability`).
-- Alternatively, contact the maintainer directly via their GitHub profile contact details.
-
-*(Maintainer: To specify a direct contact email, please configure your preferred security email address in your repository settings or replace this note).*
+- Alternatively, contact the maintainer directly via email at [patiladitya7733@gmail.com](mailto:patiladitya7733@gmail.com) or via GitHub ([@Aditya7732](https://github.com/Aditya7732)).
 
 ### Supported Versions
 

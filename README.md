@@ -407,5 +407,7 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Aditya**
-- Project Repository: [Apartment Society Manager](https://github.com/Aditya7732/apartment-society-manager)
+**Aditya Dhananjay Patil**
+- **GitHub**: [@Aditya7732](https://github.com/Aditya7732)
+- **Email**: [patiladitya7733@gmail.com](mailto:patiladitya7733@gmail.com)
+- **Project Repository**: [Apartment Society Manager](https://github.com/Aditya7732/apartment-society-manager)
