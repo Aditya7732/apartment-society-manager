@@ -1,6 +1,6 @@
 # Apartment Society Manager
 
-[![CI Pipeline](https://github.com/aditya/apartment-society-manager/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
+[![CI Pipeline](https://github.com/Aditya7732/apartment-society-manager/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Java 21](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -264,7 +264,7 @@ Before running the application locally, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aditya/apartment-society-manager.git
+git clone https://github.com/Aditya7732/apartment-society-manager.git
 cd apartment-society-manager
 ```
 
@@ -408,4 +408,4 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 ## Author
 
 **Aditya**
-- Project Repository: [Apartment Society Manager](https://github.com/aditya/apartment-society-manager)
+- Project Repository: [Apartment Society Manager](https://github.com/Aditya7732/apartment-society-manager)
