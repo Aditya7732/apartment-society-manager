@@ -1,0 +1,5 @@
+Expense ID,Category,Amount,Vendor Name,Invoice Number,Expense Date,Payment Method,Description
+e1111111-1111-1111-1111-111111111111,ELECTRICITY,45000.00,"State Electricity Board","INV-SEB-9871",2026-03-10,BANK_TRANSFER,"Common area power bill for Block A, B & C"
+e2222222-2222-2222-2222-222222222222,SECURITY,60000.00,"Apex Security Agency","INV-APEX-0326",2026-03-01,BANK_TRANSFER,"Monthly 24x7 security guard service contract"
+e3333333-3333-3333-3333-333333333333,LIFT_MAINTENANCE,18500.00,"Otis Elevator Corp","INV-OTIS-7712",2026-03-12,BANK_TRANSFER,"Quarterly AMC servicing for Block A & C elevators"
+0497266d-0c4f-4bde-b7d3-9c49ddfc7ef9,SECURITY,8500.00,"SecureVision Tech Pvt Ltd","SV-2026-88",2026-09-29,BANK_TRANSFER,"Quarterly preventive maintenance of 16 IP cameras"
